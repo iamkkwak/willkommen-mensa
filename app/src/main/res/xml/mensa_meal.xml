@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mensa_meal>
+    <meal day="mon">
+        <menu gut = "Chicken Breast"
+            gourmet = "Fish and Chips"
+            wok = "Oil Pasta"
+            prima = "Prawn Salad" />
+    </meal>
+    <meal day="tue">
+        <menu gut = "Dumplings"
+            gourment = "Pizza"
+            wok = "Fried Rice"
+            prima = "Beef Steak" />
+    </meal>
+    <meal day="wed">
+        <menu gut = "Schnitzel"
+            gourmet = "Sausages"
+            wok = "Skewers"
+            prima = "Salmon Salad" />
+    </meal>
+    <meal day="thur">
+        <menu gut = "Chicken Breast"
+            gourmet = "Pork Steak"
+            wok = "Tomato Pasta"
+            prima = "Schweinshaxe" />
+    </meal>
+    <meal day="fri">
+        <menu gut = "Dumplings"
+            gourmet = "Currywurst"
+            wok = "Fried Rice"
+            prima = "Beef Steak" />
+    </meal>
+</mensa_meal>
+
+
+
