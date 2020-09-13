@@ -4,10 +4,10 @@
 </p>
 
 
-> Hochschule Ulm 2018 Winter Semester<br>
-> Final Project of Mobile Application Development (MAD)
->
-> The app for Hochschule Ulm students and school personnels.
+Hochschule Ulm 2018 Winter Semester<br>
+Final Project of Mobile Application Development (MAD)
+
+The app for Hochschule Ulm students and school personnels.
 
 <br>
 
