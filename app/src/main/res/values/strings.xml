@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Willkommen Mensa</string>
+    <string name="menu">menu</string>
+    <string name="title_activity_location">Map</string>
+    <string name="mensa_is_now">Mensa is now ...</string>
+    <string name="empty" />
+</resources>
